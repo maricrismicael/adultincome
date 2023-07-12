@@ -1,0 +1,8 @@
+-The Adult Test.csv and Adult Train.csv are the original dataset that came from the Kaggle website.
+-The final_testData.csv and final_trainData.csv are the result of the cleaning and datawrangling of the original dataset. 
+-cleaning&data-wrangling.R is the script for the data cleaning and wrangling process.
+-model.R is the script for creating and testing the model process.
+-You can directly run the model.R without running the cleaning&data-wrangling.R first.
+-The results folder is for the screenshots of the results, statistics and error rate plot.
+
+NOTE: The packages that are used in this project are tidyverse,dbplyr,caret,randomForest
